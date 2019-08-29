@@ -12,6 +12,7 @@ the image should be updated.
 developed which contains code for the operations listed in ComboBox.
 
 **What is in Sample Code**
+
 The sample code contains following.
 - 1. (GUI) ImageApp.java (contains the code to draw and handle GUI )
 - 2. (GUI) Image.java (contains the code for displaying images). This class is used by
